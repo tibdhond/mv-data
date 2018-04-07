@@ -1,16 +1,1 @@
-{
-	"person": [
-		{
-			"id": "2",
-			"name": "New Name",
-			"birthdate": "12-12-2018",
-			"email": "kobe.mertens@hotmail.com"
-		},
-		{
-			"id": "1",
-			"name": "Foo Bar",
-			"birthdate": "12-11-2017",
-			"email": "foo@bacon.com"
-		}
-	]
-}
+
