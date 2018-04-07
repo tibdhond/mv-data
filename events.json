@@ -1,6 +1,11 @@
 {
 	"person": [
 		{
+			"name": "New Person",
+			"birthdate": "12/12/2017",
+			"email": "mail@person.com"
+		},
+		{
 			"name": "New Name",
 			"birthdate": "12/12/2018",
 			"email": "kobe@mail.com"
