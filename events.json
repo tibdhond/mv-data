@@ -1,9 +1,15 @@
 {
 	"person": [
+		{},
 		{
 			"name": "Dit is een testnaam",
 			"birthdate": "2019-12-12",
 			"email": "kobe.mertens@hotmail.com"
+		},
+		{
+			"name": "Nieuwe Persoon",
+			"birthdate": "2018-12-12",
+			"email": "test@mail.com"
 		},
 		{}
 	]
