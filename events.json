@@ -3,7 +3,13 @@
 		{
 			"name": "Kobe Mertens",
 			"birthdate": "2018-12-12",
-			"email": "kobe.mertens@persoon.com"
+			"email": [
+				"replace textbox",
+				"obe.mertens@persoon.com"
+			],
+			"id": [
+				1
+			]
 		}
 	],
 	"id": {
