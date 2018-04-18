@@ -1,1 +1,15 @@
-
+{
+	"person": [
+		{
+			"name": "Kobe Mertens",
+			"birthdate": "1212-12-12",
+			"email": "kobe.mertens@mail.com",
+			"event": {
+				"name": "Event Detail",
+				"description": "This is an event",
+				"start_time": "2132-12-12",
+				"end_time": "2444-02-11"
+			}
+		}
+	]
+}
