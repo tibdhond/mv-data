@@ -10,6 +10,12 @@
 					"description": "This is an event",
 					"start_time": "2132-12-12",
 					"end_time": "2444-02-11"
+				},
+				{
+					"name": "12 urenloop",
+					"description": "Dit is de 12 urenloop",
+					"start_time": "2122-12-12",
+					"end_time": "2313-12-23"
 				}
 			]
 		}
